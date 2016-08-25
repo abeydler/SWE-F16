@@ -13,7 +13,8 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	    
-	    
+        austinSentence1();
+	austinSentence2();   
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT

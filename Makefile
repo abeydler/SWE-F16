@@ -122,5 +122,8 @@ jry83.o: sentences/jry83.c
 	$(CC) -c $<
 kcfk28.o: sentences/kcfk28.c
 	$(CC) -c $<
+
 ajb6f4.o: sentences/ajb6f4.c
+	$(CC) -c $<
+cakd47.o: sentences/cakd47.c
 	$(CC) -c $<

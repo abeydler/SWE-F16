@@ -4,13 +4,13 @@
 // Function to include & executeA
 int austinSentence1()
 {
-  printf("The Skunk ape had only  one friend named porky, who was a proky pine.\n");
+  printf("As the Skunk-Ape heard this awesome website he went back to his tree house and looked for some shoes.");
   return 1;
 }
 
 int austinSentence2()
 {
-  printf("\nSmelly the Skunk-Ape doe not have any firends anymore because he smells so bad.s \n");
+  printf("Smelly the Skunk-Ape was sadly disapointed when he figured out ebay did nto have shoes big enough for his huge feet.\n");
   return 1;
 }
 
